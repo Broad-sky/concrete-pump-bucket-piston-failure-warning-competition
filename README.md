@@ -4,7 +4,7 @@
 
     对生产设备的维护，传统的做法主要有两类，一种是等故障发生后再维修，但这会导致非计划性的停产，经济损失大；第二种是以固定计划进行维护，但维修成本高，停机时间长。预测性维护，则通过分析故障历史数据和实时监测数据，对设备关键部件的剩余寿命或故障进行提前预测预警，并据此进行维护维修，从而减少设备非计划停机时间、降低维护成本。
 
-   （Traditional approaches to production equipment maintenance remain mainly in corrective maintenance and routine-based maintenance. Corrective maintenance, which is no fail no repair, implies unscheduled downtime of equipment, severe security risk and unacceptable economic loss, while routine or time-based maintenance is time consuming and costly. By data analysis and modeling, predictive maintenance forecasts the residual life or possible failure of key components, and schedules maintenance accordingly，in order to avoid unscheduled downtime and to save cost.）
+    （Traditional approaches to production equipment maintenance remain mainly in corrective maintenance and routine-based maintenance. Corrective maintenance, which is no fail no repair, implies unscheduled downtime of equipment, severe security risk and unacceptable economic loss, while routine or time-based maintenance is time consuming and costly. By data analysis and modeling, predictive maintenance forecasts the residual life or possible failure of key components, and schedules maintenance accordingly，in order to avoid unscheduled downtime and to save cost.）
 
     砼活塞是混凝土泵车的关键部件，也是消耗性部件，活塞故障将导致泵车无法正常工作，同时可能导致整个工地其他配套设备无法正常施工，从而带来相当大的经济损失。活塞寿命与设备的具体工况等密切相关，通过物联网将泵车的实时工况数据等上传至工业互联网云平台，基于积累的数据建立合适的模型，有望对砼活塞在未来一定工作任务期间内可能出现的故障做出有效的预测预警，从而提醒作业人员在施工前进行必要的维护，避免因计划外停机而带来的经济损失。
 
