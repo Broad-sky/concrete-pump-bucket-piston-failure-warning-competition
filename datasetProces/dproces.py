@@ -8,7 +8,6 @@ root_path = os.path.abspath(os.path.dirname(__file__))
 data_path = os.path.split(root_path)[0]
 
 def data_train_process():
-    # 读取训练集的文件名，并保存为list格式
     lis_dir_train = os.listdir(data_path+"\data_train")
     data_train_label = pd.read_csv("train_labels.csv")#读取训练集的label
     sfn = data_train_label['sample_file_name'].values.tolist()#取出文件名
