@@ -4,7 +4,6 @@ ___Time___ = "2019/1/22 17:26"
 import os
 import pandas as pd
 
-#读取训练集的文件名，并保存为list格式
 root_path = os.path.abspath(os.path.dirname(__file__))
 data_path = os.path.split(root_path)[0]
 
